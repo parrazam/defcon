@@ -14,10 +14,6 @@ It was one of my first projects in **Java** and **Swing**, and finally I decided
 
 # Captura - Screenshot
 
-->![DEFCON][1]<-
-
-
----
-
+![DEFCON][1]
 
 [1]: https://raw.githubusercontent.com/parrazam/defcon/master/Defcon/src/images/screenshot.png
