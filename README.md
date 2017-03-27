@@ -1,5 +1,8 @@
 # DEFCON
 
+![status](https://img.shields.io/badge/build-passing-brightgreen.svg) 
+![license](https://img.shields.io/github/license/parrazam/defcon.svg)
+
 Esta app en Java muestra un panel DEFCON en el escritorio, marcando un nivel de alerta desde el 5 (paz) al 1 (alerta nuclear). Está basado en el panel que se hizo famoso en las películas de los EE.UU., sobre todo en la famosa _Juegos de guerra_.
 
 Ha sido uno de mis primeros proyectos en **Java** y **Swing** que finalmente me he decidido a compartir :)
